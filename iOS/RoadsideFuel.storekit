@@ -1,0 +1,29 @@
+{
+  "identifier": "roadfuel",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "2.99",
+      "familyShareable": false,
+      "internalID": "fuellog_pro",
+      "localizations": [
+        {
+          "description": "Unlimited fill-ups, an MPG trend chart, and trip cost totals.",
+          "displayName": "Roadside Fuel Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "fuellog_pro",
+      "referenceName": "Roadside Fuel Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
